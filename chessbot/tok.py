@@ -1,0 +1,3 @@
+BOTTOKEN = "Nzc1ODE4NDI1NjQ1MDA2ODg4.X6r3Ng.xIflhJQ_DqpfBPtGhA3kTFyYqI8"
+DBLTOKEN = "whatever"
+WEBHOOKTOKEN = "whatever"
