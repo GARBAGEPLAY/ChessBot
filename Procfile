@@ -1,1 +1,1 @@
-web: python3 run_chessbot.py
+web: gunicorn chessbot:app
