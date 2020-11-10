@@ -3,7 +3,7 @@ import chess.svg
 
 WEBHOOK_PORT = 7003
 
-BOT_INVITE_LINK = "https://discord.com/oauth2/authorize?client_id=366770566331629579&scope=bot&permissions=52288"
+BOT_INVITE_LINK = "https://discord.com/api/oauth2/authorize?client_id=775818425645006888&permissions=808840279&scope=bot"
 GITHUB_LINK = "https://github.com/qwertyquerty/ChessBot"
 
 BOTURL = "https://discordbots.org/bot/366770566331629579"
